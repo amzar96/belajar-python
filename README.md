@@ -8,7 +8,7 @@ Maaf jika senarai yang diajar tidak teratur!
 
 Perkara asas Python yang kita akan explore satu satu:
 
-- **Print statement**: nak tunjuk output kat skrin
+- [**Print statement**](./01_print_output.ipynb): nak tunjuk output kat skrin
 - **Variables & data types**: macam mana nak simpan teks, nombor, boolean, etc.
 - **User input**: ambil input dari user guna `input()`
 - **Operators**: tambah, tolak, darab, bahagi dan lain-lain
